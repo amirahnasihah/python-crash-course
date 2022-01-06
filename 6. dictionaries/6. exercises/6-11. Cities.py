@@ -22,7 +22,7 @@ cities = {
     'london': {
         'country': 'united kingdom',
         'population': 8_982_000,
-        'fact': 'biggest city in Europe and 
+        'fact': 'biggest city in Europe and' 
         'largest city in the world'
         },
 
