@@ -6,6 +6,8 @@ Summary: "A project-based introduction to programming in Python, with exercises.
 
 [ERIC MATTHES](http://ehmatthes.github.io/pcc_2e/)
 
+[Python Crash Course on Github - Eric Matthes](https://github.com/ehmatthes/pcc_2e) - solutions and more!
+
 [BOOK RESOURCES](https://nostarch.com/pythoncrashcourse2e/)
 
 ## BRIEF CONTENTS
