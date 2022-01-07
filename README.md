@@ -2,11 +2,13 @@
  
 A hands-on, project-based introduction to programming by Eric Matthes.
 
-Summary: "A project-based introduction to programming in Python, with exercises. Covers general programming concepts, Python fundamentals, and problem solving. Includes three projects - how to create a simple video game, use data visualization techniques to make graphs and charts, and build an interactive web application"-- Provided by publisher. 
+### 🔥 This is my alternate resources to learn Python other than learning from websites such as [freeCodeCamp](https://www.freecodecamp.org/) or [w3schools](https://www.w3schools.com/)
+
+>Summary: "A project-based introduction to programming in Python, with exercises. Covers general programming concepts, Python fundamentals, and problem solving. Includes three projects - how to create a simple video game, use data visualization techniques to make graphs and charts, and build an interactive web application"-- Provided by publisher. 
 
 [ERIC MATTHES](http://ehmatthes.github.io/pcc_2e/)
 
-[Python Crash Course on Github - Eric Matthes](https://github.com/ehmatthes/pcc_2e) - solutions and more!
+[Python Crash Course on Github - Eric Matthes](https://github.com/ehmatthes/pcc_2e) - resources collection
 
 [BOOK RESOURCES](https://nostarch.com/pythoncrashcourse2e/)
 
