@@ -1,11 +1,11 @@
-Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+''' Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
 Type "help", "copyright", "credits" or "license()" for more information.
 import this
-The Zen of Python, by Tim Peters
+The Zen of Python, by Tim Peters'''
 
-Beautiful is better than ugly.
+zen = """Beautiful is better than ugly.
 Explicit is better than implicit.
-Simple is better than complex.
+Simple is better than complex. 
 Complex is better than complicated.
 Flat is better than nested.
 Sparse is better than dense.
@@ -22,3 +22,6 @@ Although never is often better than *right* now.
 If the implementation is hard to explain, it's a bad idea.
 If the implementation is easy to explain, it may be a good idea.
 Namespaces are one honking great idea -- let's do more of those!
+"""
+
+print(zen)
