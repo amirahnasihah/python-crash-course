@@ -36,6 +36,8 @@ Chapter 10: Files and Exceptions
 
 Chapter 11: Testing Your Code
 
+<br>
+
 ### PART II: PROJECTS
 + Project 1: Alien Invasion
 
