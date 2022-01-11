@@ -1,11 +1,18 @@
-''' How the input() function Works '''
+''' How the input() Function Works '''
 
-print("''' The Modulo Operatod '''")
+print("''' The Modulo Operator (%) '''")
 
-number = input("How tall are you, in inches? ")
-height = int(height)
+# useful tool to work with numerical info (%) which divides one number by another number and returns the remainder.
 
-if height >= 48:
-  print("\nYou're tall enough to ride!")
+print(4 % 3)
+
+
+number = input("Enter a number, and I'll tell you if it's code or odd: ")
+number = int(number)
+
+if number % 2 == 0:
+  print(f"\nThe number {number} is even.")
 else:
-  print("\nYou'll be able to ride when you're little older.")
+  print(f"\nThe number {number} is odd.")
+  
+  
