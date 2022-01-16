@@ -10,14 +10,16 @@
 message = input("Tell me something, and I will repeat it back to you: ")
 print(message)
 
-print("\n'''Writing Clear Prompts '''")
+print("''' Writing Clear Prompts '''")
 
 
 
+
+print("\n")
 
 ''' Introducing while Loops '''
 
 # while loop run as long as a certain condition is true.
 
-print("\n''' Letting the User Choose When to Quit ''' ")
+print("''' Letting the User Choose When to Quit ''' ")
 
