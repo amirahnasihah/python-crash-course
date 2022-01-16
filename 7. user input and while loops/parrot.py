@@ -13,8 +13,10 @@ print(message)
 print("\n'''Writing Clear Prompts '''")
 
 
+
+
 ''' Introducing while Loops '''
 
 # while loop run as long as a certain condition is true.
 
-print("''' Letting the User Choose When to Quit '''")
+print("\n''' Letting the User Choose When to Quit '''"")
