@@ -10,7 +10,7 @@
 message = input("Tell me something, and I will repeat it back to you: ")
 print(message)
 
-print("''' Writing Clear Prompts '''")
+
 
 
 
@@ -22,4 +22,6 @@ print("\n")
 # while loop run as long as a certain condition is true.
 
 print("''' Letting the User Choose When to Quit ''' ")
+
+
 
