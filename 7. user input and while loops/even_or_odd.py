@@ -15,5 +15,5 @@ if number % 2 == 0:
 else:
   print(f"\nThe number {number} is odd.")
   
-  
- 
+# (how to read) if the modulo of a number and two is zero 
+# (here, if number % 2 == 0) the number is even.
