@@ -10,3 +10,8 @@ so they can enter as much information as they need to;
 then, your program can work with that information. 
 You’ll use Python’s while loop to keep programs running as long 
 as certain conditions remain true.
+
+**NOTE**
+<br>
+Editors don’t run programs that prompt the user for input.
+You can use these editors to write programs that prompt for input, but you’ll need to run these programs from a **terminal**.
