@@ -16,15 +16,3 @@ prompt += "\nWhat is your first name? "
 
 name = input(prompt)
 print(f"\nHello, {name}!")
-
-
-print("\n''' Using int() to Accept Numerical Input '''")
-
-age = input("How old are you? ")
-print(age)      # a string
-
-# use int() function to treat input as a numerical value
-
-age = input("How old are you? ")
-age = int(age)
-print(age)      # an integer
