@@ -12,15 +12,19 @@ print(message)
 
 
 
-
-
 ''' Introducing while Loops '''
 
 # while loop run as long as a certain condition is true.
 
 print("\n''' Letting the User Choose When to Quit ''' ")
 
+# define a quit value & then keep program running as long as the user not entered the quit value.
 
+prompt = "\nTell me something, and I will repeat it back to you:"
+prompt += "\nEnter 'quit' to end the program."
 
-
-p
+message = ""
+while message != 'quit':
+    message = input(prompt)
+    print(message)
+    
