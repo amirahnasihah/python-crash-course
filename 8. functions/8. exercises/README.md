@@ -24,3 +24,11 @@ Write a function called `city_country()` that takes in the name of a city and it
 >“Santiago, Chile”
 
 Call your function with at least three city-country pairs, and print the value that’s returned.
+
+**8-7. Album:**<br>
+Write a function called `make_album()` that builds a dictionary describing a music album. The function should take in an artist name and an album title, and it should return a dictionary containing these two pieces of information. Use the function to make three dictionaries representing different albums. Print each return value to show that the dictionaries are storing the album information correctly.
+
+Use `None` to add an optional parameter to `make_album()` that allows you to store the nubmer of tracks on an album. If the calling line includes a value for the number of tracks, add that value to the album’s dictionary. Make at least one new function call that includes the nubmer of tracks on an album.
+
+**8-8. User Albums:**<br>
+
