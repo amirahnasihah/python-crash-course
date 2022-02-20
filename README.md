@@ -62,3 +62,6 @@ Chapter 18: Getting Started with Django
 Chapter 19: User Accounts
 
 Chapter 20: Styling and Deploying an App
+
+---
+![Python Crash Course - 2nd Edition](https://nostarch.com/sites/default/files/styles/uc_product_full/public/pcc2e_cover-blurb_2B.png?itok=2_OiXq65)
