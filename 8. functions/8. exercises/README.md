@@ -45,12 +45,27 @@ Start with your work from Exercise 8-10. Call the function `send_messages()` wit
 **8-12. Sandwiches:**<br>
 Write a function that accepts a list of items a person wants on a sandwich. The function should have one parameter that collects as many items as the function call provides, and it should print a summary of the sandwich that is being ordered. Call the function three times, using a different number of arguments each time.
 
+**8-13. User Profile:**<br>
+Start with a copy of user_profile.py from page 149. Build a profile of yourself by calling `build_profile()`, using your first and last names and three other key-value pairs that describe you.
+
 **8-14. Cars:**<br>
 Write a function that stores information about a car in a dictionary. the function should always receive a manufacturer and a model name. It should then accept an arbitrary number of keyword arguments. Call the function with the required information and two other name-value pairs, such as a color or an optional feature. Your function should work for a call like this one:
 
-``car = make_car('subaru', 'outback', color='blue', tow_package=True)``
+```python 
+car = make_car('subaru', 'outback', color='blue', tow_package=True)
+```
 
 Print the dictionary that’s returned to make sure all the information was stored correctly.
 
 **8-15. Printing Models:**<br>
 Put the functions for the example printing_models.py in a separate file called printing_functions.py. Write an import statement at the top of printing_models.py, and modify the file to use the imported functions.
+
+**8-16. Imports:**<br>
+Using a program you wrote that has one function in it, store that function in a separate file. Import the function into your main program file, and call the function using each of these approaches:
+```python
+import module_name
+from module_name import function_name
+from module_name import function_name as fn
+import module_name as mn
+from module_name import *
+```
