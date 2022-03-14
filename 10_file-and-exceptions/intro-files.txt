@@ -1,0 +1,17 @@
+#Chapter 10: Files and Exceptions
+
+# Exceptions: special objects Python creates to manage errors that arise while a program is running.
+# The json module: allow to save user data so it isnt lost when program stops running.
+
+# ''' Reading from a File '''
+
+# Data is available in text files.
+# Text files can contain weather data, traffic data, socioeconomic data, literary works & more.
+
+''' Reading an Entire File '''
+
+# start with a file contains pi to 30 decimal places, with 10 decimal places per line:
+
+3.1415926535
+  8979323846
+  2643383279
