@@ -1,0 +1,5 @@
+In Python you can create arcade games, adventure games, and puzzle games that you can deploy within a few hours using Pygame package to develop a 2D game.
+
+In Python you can generate data and create a series of functional and beautiful visualizations of that data using Matplotlib and Plotly.
+
+In Python you can build simple web applications using Django package that allows users to access.
